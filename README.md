@@ -93,10 +93,14 @@ uygulamalı olarak sergilenmektedir.
 ├── index.php # Ana sayfa (proje tanıtımı)
 
 ├── login.php # Kullanıcı giriş sayfası
+
 ├── register.php # Kullanıcı kayıt sayfası
+
 ├── logout.php # Oturum kapatma
+
 │
 ├── chat.php # Gemini API ile canlı sohbet ekranı
+
 │
 ├── ondevice.php # On-Device ML özet sayfası
 ├── ondevice_detay.php # On-Device ML detaylı anlatım (üyelere özel)
