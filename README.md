@@ -156,6 +156,20 @@ uygulamalı olarak sergilenmektedir.
 └── README.md # Proje dokümantasyonu
 
 
+## Yapılandırma (Config)
+
+Güvenlik nedeniyle `config.php` dosyası GitHub reposuna eklenmemiştir.
+
+Projeyi çalıştırmak için:
+
+1. `config.example.php` dosyasını kopyalayarak `config.php` olarak yeniden adlandırın.
+2. Veritabanı bilgilerinizi girin.
+3. Google Gemini API anahtarınızı `GEMINI_API_KEY` alanına ekleyin.
+
+> API anahtarları ve hassas bilgiler güvenlik gerekçesiyle versiyon kontrol sistemlerinde paylaşılmamalıdır.
+
+
+
 🛠️ Kullanılan Teknolojiler
 
 PHP (PDO) – Sunucu tarafı işlemler
