@@ -103,28 +103,47 @@ uygulamalı olarak sergilenmektedir.
 
 │
 ├── ondevice.php # On-Device ML özet sayfası
+
+
 ├── ondevice_detay.php # On-Device ML detaylı anlatım (üyelere özel)
+
 │
 ├── gemini_info.php # Google Gemini API özet
+
 ├── gemini_detay.php # Gemini API detaylı anlatım
+
 │
 ├── nasil_yapildi.php # Projenin geliştirme süreci
+
 │
 ├── db.php # Veritabanı bağlantısı (PDO)
+
 ├── config.php # API anahtarları ve yapılandırma
+
 ├── gemini.php # Gemini API çağrılarını yapan yardımcı fonksiyon
+
 │
 ├── /partials
+
 │ ├── header.php # Ortak üst yapı (navbar, head)
+
 │ └── footer.php # Ortak alt yapı
+
 │
 ├── /assets
+
 │ ├── css/
+
 │ └── style.css # Tüm sayfaların ortak stil dosyası
+
 │
+
 │
+
 │
+
 └── README.md # Proje dokümantasyonu
+
 
 🛠️ Kullanılan Teknolojiler
 
