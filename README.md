@@ -89,7 +89,9 @@ uygulamalı olarak sergilenmektedir.
 📁 Proje Dosya Yapısı
 / (root)
 │
+
 ├── index.php # Ana sayfa (proje tanıtımı)
+
 ├── login.php # Kullanıcı giriş sayfası
 ├── register.php # Kullanıcı kayıt sayfası
 ├── logout.php # Oturum kapatma
